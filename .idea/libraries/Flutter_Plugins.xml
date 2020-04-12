@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidDevelopmetKit/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/native_device_orientation-0.3.0" />
+      <root url="file://$PROJECT_DIR$/../../AndroidDevelopmetKit/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_qr_bar_scanner-1.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
